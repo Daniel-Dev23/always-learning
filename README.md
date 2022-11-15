@@ -32,7 +32,7 @@ De igual manera, comparte o recomiendalo a más gente que le podría interesar, 
 
 ### __¡Al compartir el conocimiento, crecemos todos!__ 🏆🙏
 
-<br>
+### 🚀 __[Explorar Temas](home.md)__
 
 ---
 
