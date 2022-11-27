@@ -4,7 +4,7 @@ A continuación, comparto mi experiencia sobre los siguientes temas:
 
 <!-- > ## 🌟👉 __[Buenas Practicas](./topics/good-practices/index-good-practices.md)__ -->
 
-<!-- > ## 🌟👉 __[Git & Github](./topics/git-github/index-git-github.md)__ -->
+> ## 🌟👉 __[Git & Github](./topics/git-github/index-git-github.md)__
 
 <!-- > ## 🌟👉 __[Javascript](./topics/javascript/index-javascript.md)__ -->
 
